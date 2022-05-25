@@ -28,9 +28,9 @@ html, body {
 }
 
 #around {
-    justify-content: around;
+    justify-content: space-around;
 }
 
 #between {
-    justify-content: between;
+    justify-content: space-between;
 }
