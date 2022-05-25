@@ -1,0 +1,16 @@
+html, body {
+    background-color: #FFF;
+}
+
+.container {
+    display:flex;
+}
+
+.element {
+    background-color: red;
+    color: white;
+    text-align: center;
+    margin: 50px 50px;
+    width: 150px;
+    height: 150px;
+}
