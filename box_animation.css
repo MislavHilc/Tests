@@ -99,9 +99,13 @@ body {
     padding: 10px 20px;
     border-radius: 10px;
     background: #FFF;
-    color: #343434;
+    color: #111;
     text-decoration: none;
     font-weight: 700;
+}
+
+.card .content a:hover {
+    background: limegreen;
 }
 
 @media (max-width: 900px) {
