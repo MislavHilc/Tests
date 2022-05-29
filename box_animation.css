@@ -57,11 +57,11 @@ body {
     transform: translate(-50%, -50%);
     height: 300px;
     pointer-events: none;
-    transition: 0.5s;
+    transition: 0.3s;
 }
 
 .card:hover img {
-    left: 82%;
+    left: 67%;
     height: 500px;
 }
 
